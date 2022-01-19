@@ -1,5 +1,5 @@
 var currentNumberWrapper = document.getElementById('currentnumber')
-var currentnumber = o;
+var currentnumber = 0;
 
 function increment(){
     currentnumber = currentnumber + 1;
